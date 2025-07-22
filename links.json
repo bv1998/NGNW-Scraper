@@ -1,0 +1,42 @@
+[
+    {
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/food/gluten-free-bread-rolls/976759_5004481_7089431_7741280?povid=976759_5004481_Nups_Browse_GlutenFree_Bread_Apr_10",
+        "cat": "bread"
+    },
+    {
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/food/gluten-free-snacks/976759_5004481_7089431_6998433?povid=976759_5004481_Nups_Browse_GlutenFree_Snacks_Apr_10",
+        "cat": "snacks"
+    },
+    {
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/food/gluten-free-baking/976759_5004481_7089431_4217435?povid=976759_5004481_Nups_Browse_GlutenFree_Baking_Apr_10",
+        "cat": "baking"
+    },
+    {
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/food/gluten-free-mac-cheese/976759_5004481_7089431_3977431?povid=976759_5004481_Nups_Browse_GlutenFree_MacnCheese_Mar_4",
+        "cat": "Mac & Cheese"
+    },
+    {
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/food/gluten-free-breakfast-foods/976759_5004481_7089431_8949240?povid=976759_5004481_Nups_Browse_GlutenFree_Breakfast_Apr_10",
+        "cat": "breakfast"
+    },
+    {
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/food/gluten-free-pasta/976759_5004481_7089431_1863206?povid=976759_5004481_Nups_Browse_GlutenFree_Pasta_Apr_12",
+        "cat": "pasta"
+    },
+    {
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/food/gluten-free-soup/976759_5004481_7089431_8095640?povid=976759_5004481_Nups_Browse_GlutenFree_Soup_Apr_10",
+        "cat": "soup"
+    },
+    {
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/food/gluten-free-frozen/976759_5004481_7089431_3367775?povid=976759_5004481_Nups_Browse_GlutenFree_Frozen_June_11",
+        "cat": "frozen"
+    }
+]
